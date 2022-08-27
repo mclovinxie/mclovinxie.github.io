@@ -1,19 +1,8 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-{% include base_path %}
-
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science, Southern Methodist University, 2024 (expected)
+* M.E. in Software Engineering, University of Chinese Academy of Science, 2013
+* B.S. in Computer Science, University of Science and Technology of China, 2010
 
 Work experience
 ======
