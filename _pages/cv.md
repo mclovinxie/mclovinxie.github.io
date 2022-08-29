@@ -1,29 +1,59 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
 Education
 ======
 * Ph.D in Computer Science, Southern Methodist University, 2024 (expected)
 * M.E. in Software Engineering, University of Chinese Academy of Science, 2013
 * B.S. in Computer Science, University of Science and Technology of China, 2010
 
-Work experience
+Academic work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021.08 - Present: Research Assistant
+  * Southern Methodist University
+  * Supervisor: [Professor Jia Zhang](https://s2.smu.edu/~jiazhang)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2022.08 - Present: Adjunct Faculty
+  * Southern Methodist University
+  * Lecturer of class _discrete computational structures_
+
+Industry work experience
+======
+* 2020.06 - 2021.07: Big data architect
+  * FAW-VW R&D Center (Chengdu)
+* 2018.04 - 2020.03: Senior software engineer
+  * Tencent Technology (Beijing)
+* 2017.08 - 2018.03: Senior data engineer
+  * UCredit (Beijing)
+* 2016.07 - 2017.07: Software engineer
+  * China Life P&C, Yunnan (Kunming)
+* 2013.07 - 2016.07: Software engineer
+  * Agricultural Bank of China R&D Center (Beijing)
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming language
+  * Python
+  * Java
+  * SQL
+  * Javascript
+* Web programming
+  * Flask
+  * Springboot
+* Big data
+  * Hadoop
+  * Flink
+  * Spark
+* Machine learning
+  * PyTorch
 
 Publications
 ======
