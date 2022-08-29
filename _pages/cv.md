@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "[Download](https://mclovinxie.github.io/files/cv.pdf)"
+title: "[Download](https://mclovinxie.github.io/files/CV_XihaoXie.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
