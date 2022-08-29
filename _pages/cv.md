@@ -8,6 +8,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download](https://mclovinxie.github.io/files/CV_XihaoXie.pdf)
+
 Education
 ======
 * Ph.D in Computer Science, Southern Methodist University, 2024 (expected)
