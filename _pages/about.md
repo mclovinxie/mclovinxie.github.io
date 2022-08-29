@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a second-year Ph.D. student of the [Department of Computer Science](https://www.smu.edu/Lyle/Academics/Departments/CS) at [Southern Methodist University](https://www.smu.edu/), working with [Prof. Jia Zhang](https://s2.smu.edu/~jiazhang). Before joining SMU, I have worked in industry as a big data practitioner for 8 years. I received my M.E. degree and B.S. degrees from [University of Chinese Academy](https://english.ucas.ac.cn/) and [University of Science and Technology of China](https://en.ustc.edu.cn/) in Software Engineering and Computer Science, respectively.
 
-A data-driven personal website
+My current research interests cover *recommender system*, *machine learning*, *service computing*, *big data* and *software engineering*.
+
+News
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are
+- \[08/22/2022\] I will be lecturing class of **discrete computational structures** this semester.
+- \[05/09/2022\] One paper on **service recommendation** was accepted to IEEE/ACIS ICIS 2022.
