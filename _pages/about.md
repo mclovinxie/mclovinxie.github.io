@@ -16,3 +16,10 @@ News
 ======
 - \[08/22/2022\] I will be lecturing class of **discrete computational structures** this semester.
 - \[05/09/2022\] One paper on **service recommendation** was accepted to IEEE/ACIS ICIS 2022.
+
+News
+======
+{% for post in site.posts %} {% include archive-single.html %} {% endfor %}
+{% capture written_label %}'None'{% endcapture %}
+
+{% for collection in site.collections %} {% unless collection.output == false or collection.label == "posts" %} {% capture label %}{{ collection.label }}{% endcapture %} {% if label != written_label %}
