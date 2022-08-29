@@ -12,12 +12,13 @@ I am a second-year Ph.D. student of the [Department of Computer Science](https:/
 
 My current research interests cover *recommender system*, *machine learning*, *service computing*, *big data* and *software engineering*.
 
-<!-- News -->
-<!-- ====== -->
-<!-- - \[08/22/2022\] I will be lecturing class of **discrete computational structures** this semester. -->
-<!-- - \[05/09/2022\] One paper on **service recommendation** was accepted to IEEE/ACIS ICIS 2022. -->
-
 News
 ======
-{% for post in site.posts %} {% include archive-single.html %} {% endfor %}
+- \[08/22/2022\] I will be lecturing class of **discrete computational structures** this fall semester.
+- \[05/09/2022\] One paper on **service recommendation** is accepted to IEEE/ACIS ICIS 2022.
+- \[03/30/2022\] Our poster on **next service recommendation** is announced \#1 in our department in the event of [Research & Innovation Week 2022](https://www.smu.edu/Moody/Events/research-and-innovation-week). See demo [here](https://youtu.be/swi5QL4XgHY).
+
+<!-- News -->
+<!-- ====== -->
+<!-- {% for post in site.posts %} {% include archive-single.html %} {% endfor %} -->
 
