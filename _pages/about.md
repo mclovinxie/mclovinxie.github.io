@@ -14,6 +14,7 @@ My current research interests cover *recommender system*, *machine learning*, *s
 
 News
 ======
+- \[10/24/2022\] One paper on **service recommendation** is accepted to IEEE/ACIS SNPD-Winter 2022.
 - \[08/22/2022\] I will be lecturing class of **discrete computational structures** this fall semester.
 - \[05/09/2022\] One paper on **service recommendation** is accepted to IEEE/ACIS ICIS 2022.
 - \[03/30/2022\] Our poster on **next service recommendation** is announced **\#1** in our department in the event of [Research & Innovation Week 2022](https://www.smu.edu/Moody/Events/research-and-innovation-week). See demo [here](https://youtu.be/swi5QL4XgHY).
