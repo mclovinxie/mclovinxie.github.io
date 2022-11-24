@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download](https://mclovinxie.github.io/files/CV_XihaoXie.pdf)
+[Download](https://mclovinxie.github.io/files/CV - XihaoXie.pdf)
 
 Education
 ======
