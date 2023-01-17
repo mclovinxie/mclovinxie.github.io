@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student of the [Department of Computer Science](https://www.smu.edu/Lyle/Academics/Departments/CS) at [Southern Methodist University](https://www.smu.edu/), working with [Prof. Jia Zhang](https://s2.smu.edu/~jiazhang). Before joining SMU, I have worked in industry as a big data practitioner for 8 years. I received my M.E. degree and B.S. degrees from [University of Chinese Academy](https://english.ucas.ac.cn/) and [University of Science and Technology of China](https://en.ustc.edu.cn/) in Software Engineering and Computer Science, respectively.
+I am a Ph.D. candidate of the [Department of Computer Science](https://www.smu.edu/Lyle/Academics/Departments/CS) at [Southern Methodist University](https://www.smu.edu/), working with [Prof. Jia Zhang](https://s2.smu.edu/~jiazhang). Before joining SMU, I have worked in industry as a big data practitioner for 8 years. I received my M.E. degree and B.S. degrees from [University of Chinese Academy](https://english.ucas.ac.cn/) and [University of Science and Technology of China](https://en.ustc.edu.cn/) in Software Engineering and Computer Science, respectively.
 
 My current research interests cover *recommender system*, *machine learning*, *service computing*, *big data* and *software engineering*.
 
