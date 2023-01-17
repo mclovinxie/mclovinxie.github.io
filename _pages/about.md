@@ -14,6 +14,7 @@ My current research interests cover *recommender system*, *machine learning*, *s
 
 News
 ======
+- \[01/16/2023\] I will be lecturing class of **discrete computational structures** for the coming spring semester.
 - \[10/24/2022\] One paper on **service recommendation** is accepted to IEEE/ACIS SNPD-Winter 2022.
 - \[08/22/2022\] I will be lecturing class of **discrete computational structures** this fall semester.
 - \[05/09/2022\] One paper on **service recommendation** is accepted to IEEE/ACIS ICIS 2022.
